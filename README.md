@@ -1,5 +1,6 @@
 # Ex--6-IAM-working-overview
-
+## NAME: VESHWANTH.
+## REGNO: 212224230300
 # AIM
 
 To explore AWS IAM users, groups, and policies, assign users to appropriate groups, and verify how permissions control access to AWS services.
